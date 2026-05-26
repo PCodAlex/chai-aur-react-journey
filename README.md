@@ -81,4 +81,4 @@ Want to run this repository locally?
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/PCodAlex/chai-aur-react-journey.git
